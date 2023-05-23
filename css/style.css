@@ -119,3 +119,6 @@ color: black;
 .navbar a:hover{
    color: #1BF7DE;
   }
+.greeting{
+  text-align: center;
+}
